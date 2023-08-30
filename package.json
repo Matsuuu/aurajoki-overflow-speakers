@@ -1,0 +1,27 @@
+{
+  "name": "aurajoki-overflow-speakers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matsuuu/aurajoki-overflow-speakers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matsuuu/aurajoki-overflow-speakers/issues"
+  },
+  "homepage": "https://github.com/Matsuuu/aurajoki-overflow-speakers#readme",
+  "dependencies": {
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  }
+}
